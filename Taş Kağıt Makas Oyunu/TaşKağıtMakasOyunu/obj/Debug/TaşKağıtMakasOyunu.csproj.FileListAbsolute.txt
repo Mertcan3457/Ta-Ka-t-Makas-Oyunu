@@ -1,0 +1,39 @@
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe.config
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.pdb
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csprojAssemblyReference.cache
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Form1.resources
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Properties.Resources.resources
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csproj.GenerateResource.cache
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\pckopat\source\repos\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.pdb
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe.config
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.pdb
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.pdb
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csprojResolveAssemblyReference.cache
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Form1.resources
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Properties.Resources.resources
+C:\Users\L4OGRETMEN\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csproj.GenerateResource.Cache
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe.config
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.pdb
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csprojAssemblyReference.cache
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Form1.resources
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Properties.Resources.resources
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csproj.GenerateResource.cache
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\pckopat\Desktop\TaşKağıtMakasOyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.pdb
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe.config
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\bin\Debug\TaşKağıtMakasOyunu.pdb
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csprojAssemblyReference.cache
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Form1.resources
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.Properties.Resources.resources
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csproj.GenerateResource.cache
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.exe
+C:\Users\pckopat\Desktop\Çalışmalarım\Taş Kağıt Makas Oyunu\TaşKağıtMakasOyunu\obj\Debug\TaşKağıtMakasOyunu.pdb
